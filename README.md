@@ -31,7 +31,7 @@ Make sure to configure your database connection in `application.properties`:
 
 ```properties
 spring.application.name=University
-spring.datasource.url=jdbc:mysql://localhost:3306/WMS
+spring.datasource.url=jdbc:mysql://localhost:3306/uni
 spring.datasource.username=root
 spring.datasource.password=
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
